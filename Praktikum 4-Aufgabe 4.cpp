@@ -1,10 +1,3 @@
-/*********
-Matr.-Nr:                     3117193
-Nachname/Surname:             Ciyrak
-Vorname/Given name:           Alara
-Uni-Email:                    Alara.Ciyrak@stud.uni-due.de
-Studiengang/Course of studis: Computer Engineering
-*********/
 
 //when an image is mirrored 1st pixel becomes the last, second becomes the 2nd before last!
 
